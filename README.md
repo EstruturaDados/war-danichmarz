@@ -6,6 +6,7 @@ Projeto completo do jogo WAR implementado em linguagem C, desenvolvido como trab
 
 ## 👨‍💻 Autor
 **Daniela Chiavenato Marzagão**
+
 Curso: Análise e Desenvolvimento de Sistemas  
 Data: 16/11/2025
 
